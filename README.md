@@ -37,11 +37,5 @@
  <br>-Brainstorming new ideas and bringing them to life.
 </p>
 
-### Github Stats:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=crx-21&card_width=500&theme=vue-dark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crx-21&layout=compact&card_width=300&langs_count=20&theme=vue-dark" />
-</a>
+
